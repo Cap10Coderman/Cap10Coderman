@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MagikMerlyn
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning AWS and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ 
   si.unnykrishnan@gmail.com
