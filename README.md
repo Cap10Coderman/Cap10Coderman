@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MagikMerlyn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning UX and Frontend Web Devolopment
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Devolopment and Designing
+- 🌱 I’m currently learning Frontend Web Devolopment and AWS
+- 💞️ I’m looking to collaborate on Devolopment Projects
 - 📫 How to reach me @ 
   si.unnykrishnan@gmail.com
 <!---
