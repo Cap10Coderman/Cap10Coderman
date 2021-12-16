@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MagikMerlyn
+- 👋 Hi, I’m @Merlyn-Coderman
 - 👀 I’m interested in Web Devolopment and Designing
-- 🌱 I’m currently learning Frontend Web Devolopment and AWS
-- 💞️ I’m looking to collaborate on Devolopment Projects
+- 🌱 I’m currently working in AWS
+- 💞️ I’m looking to collaborate on Consulting and Devolopment Projects
 - 📫 How to reach me @ 
   si.unnykrishnan@gmail.com
 <!---
