@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Merlyn-Coderman
-- 👀 I’m an AWS Certified Cloud Practitioner
-- 🌱 I’m currently working in AWS
+- 👋 Hi, I’m @ Cap10Coderman
+- 👀 I’m an AWS Certified Solutions Architect- Associate
+- 🌱 I’m currently working in AWS 
 - 💞️ I’m looking to collaborate on Consulting and Devolopment Projects
 - 📫 How to reach me @ 
   si.unnykrishnan@gmail.com
