@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ Cap10Coderman
+- 👋 Hi, I’m @ Cap10Coderman.
 - 👀 I’m an AWS Certified Solutions Architect- Associate
 - 🌱 I’m currently working in AWS 
 - 💞️ I’m looking to collaborate on Consulting and Devolopment Projects
