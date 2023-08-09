@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ Cap10Coderman.
 - 👀 I’m a Security Engineer.
-- 🌱 I’m currently working in AWS 
-- 💞️ I’m looking to collaborate on Consulting and Devolopment Projects
+- 🌱 Currently working in AWS 
+- 💞️ looking to collaborate on Consulting and Devolopment Projects
 - 📫 How to reach me @ 
   si.unnykrishnan@gmail.com
 <!---
