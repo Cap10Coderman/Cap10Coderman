@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ Unni Krishnan
-- 👀 I’m a Security Engineer.
+- 👀 I’m a Security Engineer..
 - 🌱 Currently working in AWS..
 - 💞️ looking to collaborate on Devolopment and Security Projects.
 - 📫 Reach me @ 
