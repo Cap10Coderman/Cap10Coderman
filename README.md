@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ Cap10Coderman.
-- 👀 I’m a Security Engineer.
+- 👀 I’m a Security Analyst.
 - 🌱 Currently working in AWS...
 - 💞️ Looking to collaborate on Devolopment and Security Projects..
 - 📫 Reach me @ 
