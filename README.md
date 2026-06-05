@@ -8,7 +8,7 @@ Passionate about securing cloud environments, automating security controls, and 
 
 - 🔐 Security Analyst focused on Cloud Security, DevSecOps, and Compliance
 - ☁️ AWS Security Engineer with hands-on experience implementing enterprise security controls
-- 🏗️ Infrastructure as Code enthusiast using Terraform
+- 🏗️ Infrastructure as Code enthusiast using CloudFormation
 - 📊 Interested in Security Monitoring, Detection Engineering, and Observability
 - 🤖 Exploring GenAI, Security Automation, and AI-powered Security Operations
 - 📝 Regularly share insights on Cyber Security, AWS, Compliance, and Emerging Threats
