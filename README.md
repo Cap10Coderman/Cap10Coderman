@@ -15,8 +15,7 @@ Passionate about securing cloud environments, automating security controls, and 
   
 ## 🤝 Let's Connect
 - Reach me @ https://ukrishnan.com
-- LinkedIn: YOUR_LINKEDIN_URL
-- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://www.linkedin.com/in/unnikrishnansi/
 ---
 ### 💡 Favorite Quote
 
